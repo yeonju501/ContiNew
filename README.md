@@ -1,5 +1,5 @@
 ﻿# ContiNew
-## ContiNew 소개
+## 🏡 ContiNew 소개
 ContiNew는 온라인 계약을 제공하는 **비대면 이어살기 중개 서비스**입니다.
 
 월세 계약 기간을 채우지 못하고 이어살기를 구해야하는 상황에 여러 플랫폼을 이용할 필요가 없도록,
@@ -10,21 +10,21 @@ ContiNew는 온라인 계약을 제공하는 **비대면 이어살기 중개 서
 
 이어살기할 땐 ContiNew!
 
-## 기술 스택
+## 🛠 기술 스택
 <img src="https://user-images.githubusercontent.com/75344304/175760960-4622ea98-0c0c-410f-a8c8-07077ee67d24.png"  width="800" height="660"/>
 
 
-## 프로젝트 아키텍쳐
+## 🏗 프로젝트 아키텍쳐
 <img src="https://user-images.githubusercontent.com/75344304/175760777-abebfb34-ea75-436c-ac63-f2706b90d4b7.png"  width="800" height="500"/>
 
 
 
-## ERD
+## ⚙️ ERD
 ![ERD](https://user-images.githubusercontent.com/75344304/175761311-6e416bdf-f286-4e3d-8240-cc415046c28b.png)
 
 
 
-### 주요 기능
+## 📌 주요 기능
 ## 매물 등록 및 검색
 
 ![매물등록및검색](https://user-images.githubusercontent.com/75344304/175760800-afa6891a-f576-4266-9c1b-e6b72196b504.png)
@@ -58,7 +58,7 @@ ContiNew는 온라인 계약을 제공하는 **비대면 이어살기 중개 서
 
 
 
-## 팀 소개
+## 😊 팀 소개
 
 권연주 (Backend)
 
