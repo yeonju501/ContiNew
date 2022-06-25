@@ -11,22 +11,22 @@ ContiNew는 온라인 계약을 제공하는 **비대면 이어살기 중개 서
 이어살기할 땐 ContiNew!
 
 ## 기술 스택
-![skills](https://user-images.githubusercontent.com/75344304/175760775-40c1e62a-f8be-4719-8757-6002bd9d55c6.png)
-
+<img src="https://user-images.githubusercontent.com/75344304/175760960-4622ea98-0c0c-410f-a8c8-07077ee67d24.png"  width="800" height="660"/>
 
 
 ## 프로젝트 아키텍쳐
-![architecture](https://user-images.githubusercontent.com/75344304/175760777-abebfb34-ea75-436c-ac63-f2706b90d4b7.png)
+<img src="https://user-images.githubusercontent.com/75344304/175760777-abebfb34-ea75-436c-ac63-f2706b90d4b7.png"  width="800" height="500"/>
 
 
 
 ## ERD
-![ERD](https://user-images.githubusercontent.com/75344304/175760796-1cbd9bce-a278-4dd2-9794-a181684b0663.png)
+![ERD](https://user-images.githubusercontent.com/75344304/175761311-6e416bdf-f286-4e3d-8240-cc415046c28b.png)
 
 
 
-## 주요 기능
-### 매물 등록 및 검색
+### 주요 기능
+## 매물 등록 및 검색
+
 ![매물등록및검색](https://user-images.githubusercontent.com/75344304/175760800-afa6891a-f576-4266-9c1b-e6b72196b504.png)
 
 -  매물은 사용자당 1개의 매물만 등록이 가능하며, 등록한 매물은 30일 간 노출됩니다.
@@ -34,7 +34,7 @@ ContiNew는 온라인 계약을 제공하는 **비대면 이어살기 중개 서
 
 
 
-### 채팅
+## 채팅
  
 ![채팅](https://user-images.githubusercontent.com/75344304/175760803-424e0140-f1b4-4464-af52-ed1f6ee67724.png)
 
@@ -43,11 +43,15 @@ ContiNew는 온라인 계약을 제공하는 **비대면 이어살기 중개 서
 
 
 
-### 온라인 계약
-![온라인계약](https://user-images.githubusercontent.com/75344304/175760805-4e5d0e24-d671-4089-86ed-c1356071adcf.png)
+## 온라인 계약
+![온라인계약2](https://user-images.githubusercontent.com/75344304/175761443-fc345885-e03a-4657-8b5e-98b4886825be.png)
 
 - 판매자와 구매자의 계약요청과 동의로 계약 의사가 확인되면 계약 진행이 시작됩니다.
+
+
 - 1단계에서 판매자(임대인)이 먼저 매물 조건을 포함한 계약 내용을 작성합니다.
+
+
 - 2단계에서 구매자(임차인)은 판매자가 작성한 계약서를 확인하고 인적사항 작성 및 서명을 합니다.
 - 3단계에서 판매자는 구매자의 인적사항 및 서명을 확인하고 최종적으로 서명을 합니다. 이 때 판매자는 이전에 작성한 항목을 수정할 수 없습니다.
 - 3단계까지 완료하면 계약이 성사되고 마이페이지에서 내 계약을 확인할 수 있습니다.
