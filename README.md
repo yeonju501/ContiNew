@@ -7,7 +7,7 @@ ContiNew는 온라인 계약을 제공하는 **비대면 이어살기 중개 서
 
 채팅을 통해 매물 정보를 공유하고, 비대면 온라인 계약 서비스까지.
 
-이어살기할 땐 ContiNew!
+**이어살기할 땐 ContiNew!**
 
 ## 🛠 기술 스택
 <img src="https://user-images.githubusercontent.com/75344304/175760960-4622ea98-0c0c-410f-a8c8-07077ee67d24.png"  width="800" height="660"/>
