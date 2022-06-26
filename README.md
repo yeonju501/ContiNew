@@ -61,7 +61,6 @@ ContiNew는 온라인 계약을 제공하는 **비대면 이어살기 중개 서
 ### Commit Type
 ```
 $ git commit -m [#'JIRA 번호'] 타입 : 작업 설명 
-
 ```
 
 | git status | 의미 |
