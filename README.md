@@ -1,5 +1,4 @@
-﻿# ContiNew
-## 🏡 ContiNew 소개
+## 🏡 ContiNew
 ContiNew는 온라인 계약을 제공하는 **비대면 이어살기 중개 서비스**입니다.
 
 월세 계약 기간을 채우지 못하고 이어살기를 구해야하는 상황에 여러 플랫폼을 이용할 필요가 없도록,
@@ -58,17 +57,35 @@ ContiNew는 온라인 계약을 제공하는 **비대면 이어살기 중개 서
 
 
 
+## 💻 협업 룰
+### Commit Type
+```
+$ git commit -m [#'JIRA 번호'] 타입 : 작업 설명 
+
+```
+
+| git status | 의미 |
+| --- | ---|
+| feat | 새로운 기능 추가|
+| refactor | 코드 리팩토링 |
+| style | 스타일 작업 |
+| fix | 버그 수정 |
+| docs | 문서 수정 |
+| chore | 빌드 업무 수정, 패키지 매니저 수정 |
+
+
+
 ## 😊 팀 소개
 
-권연주 (Backend)
+**권연주 (Backend)**
 
-박예정 (Frontend)
+**박예정 (Frontend)**
 
-방기진 (Frontend)
+**방기진 (Frontend)**
 
-우동진 (Frontend)
+**우동진 (Frontend)**
 
-우상준 (Backend)
+**우상준 (Backend)**
 
-이승기 (Backend)
+**이승기 (Backend)**
 
